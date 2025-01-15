@@ -1,0 +1,21 @@
+.paul-alba-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa; /* Light gray background */
+  margin: 0;
+}
+
+.paul-alba-text {
+  font-family: "Arial", sans-serif;
+  font-size: 2.5rem;
+  color: #333; /* Dark gray text */
+  text-decoration: none; /* Remove underline */
+  text-align: center;
+  transition: color 0.3s ease;
+}
+
+.paul-alba-text:hover {
+  color: #007bff; /* Change to blue on hover */
+}
